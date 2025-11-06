@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshot
+
+Berikut tampilan hasil aplikasi:
+
+![Screenshot_app_booking](https://github.com/pitriaulia20/quiz_app_booking/blob/main/Screenshoot_booking.png)
+![Screenshot booking sukses](https://github.com/pitriaulia20/quiz_app_booking/blob/main/Screenshoot_booking_sukses.png)
+
+

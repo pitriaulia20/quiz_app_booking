@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Berikut tampilan hasil aplikasi:
 
-![Screenshot_app_booking](https://github.com/pitriaulia20/quiz_app_booking/blob/main/screenshoot_booking.png)
-![Screenshot_booking_sukses.png](https://github.com/pitriaulia20/quiz_app_booking/blob/main/Screenshoot_booking_sukses.png)
+![Screenshot_app_booking](https://raw.githubusercontent.com/pitriaulia20/quiz_app_booking/main/screenshoot_app_booking.png)
+![Screenshot_booking_sukses](https://raw.githubusercontent.com/pitriaulia20/quiz_app_booking/main/screenshoot_booking_sukses.png)
 
 

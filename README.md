@@ -21,5 +21,11 @@ Berikut tampilan hasil aplikasi:
 
 ![Screenshot_app_booking](https://raw.githubusercontent.com/pitriaulia20/quiz_app_booking/main/Screenshot_app_booking.png)
 ![Screenshot_booking_sukses](https://raw.githubusercontent.com/pitriaulia20/quiz_app_booking/main/Screenshot_booking_sukses.png)
+![Screenshot_Hasil_running](https://raw.githubusercontent.com/pitriaulia20/quiz_app_booking/main/Screenshot_Hasil_running.png)
+![Screenshot_running_sukses](https://raw.githubusercontent.com/pitriaulia20/quiz_app_booking/main/Screenshot_running_sukses.png)
+
+
+
+
 
 
